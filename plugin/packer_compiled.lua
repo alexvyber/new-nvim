@@ -90,15 +90,10 @@ _G.packer_plugins = {
     path = "/home/alexs/.local/share/nvim/site/pack/packer/start/fzf.vim",
     url = "https://github.com/junegunn/fzf.vim"
   },
-  ["nlua.nvim"] = {
+  ["nvim-tree.lua"] = {
     loaded = true,
-    path = "/home/alexs/.local/share/nvim/site/pack/packer/start/nlua.nvim",
-    url = "https://github.com/tjdevries/nlua.nvim"
-  },
-  ["nvim-treesitter"] = {
-    loaded = true,
-    path = "/home/alexs/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
-    url = "https://github.com/nvim-treesitter/nvim-treesitter"
+    path = "/home/alexs/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+    url = "https://github.com/kyazdani42/nvim-tree.lua"
   },
   ["nvim-web-devicons"] = {
     loaded = true,

@@ -1,28 +1,28 @@
 return {
 
-    'lewis6991/impatient.nvim', -- TODO  waht are these?
-    'camspiers/snap', -- TODO  waht are these?
-    'ThePrimeagen/refactoring.nvim', -- TODO  make use of it
-    'nlua.nvim',
-    'tjdevries/vim9jit',
-    'tjdevries/vimterface.nvim',
-    'tjdevries/gruvbuddy.nvim',
-    'tjdevries/apyrori.nvim',
-    'tjdevries/manillua.nvim',
-    'tjdevries/cyclist.vim',
-    'tjdevries/express_line.nvim',
-    'tjdevries/overlength.vim',
-    'tjdevries/pastery.vim',
-    'tjdevries/complextras.nvim',
-    'tjdevries/lazy.nvim',
-    'tjdevries/diff-therapy.nvim',
-    'tjdevries/train.vim', -- When Tj has some extra time...
-    'tjdevries/command_and_conquer.nvim', -- When Tj has some extra time...
-    'tjdevries/streamer.nvim', -- When Tj has some extra time...
-    'tjdevries/bandaid.nvim', -- When Tj has some extra time...
+	"lewis6991/impatient.nvim", -- TODO  waht are these?
+	"camspiers/snap", -- TODO  waht are these?
+	"ThePrimeagen/refactoring.nvim", -- TODO  make use of it
+	"nlua.nvim",
+	"tjdevries/vim9jit",
+	"tjdevries/vimterface.nvim",
+	"tjdevries/gruvbuddy.nvim",
+	"tjdevries/apyrori.nvim",
+	"tjdevries/manillua.nvim",
+	"tjdevries/cyclist.vim",
+	"tjdevries/express_line.nvim",
+	"tjdevries/overlength.vim",
+	"tjdevries/pastery.vim",
+	"tjdevries/complextras.nvim",
+	"tjdevries/lazy.nvim",
+	"tjdevries/diff-therapy.nvim",
+	"tjdevries/train.vim", -- When Tj has some extra time...
+	"tjdevries/command_and_conquer.nvim", -- When Tj has some extra time...
+	"tjdevries/streamer.nvim", -- When Tj has some extra time...
+	"tjdevries/bandaid.nvim", -- When Tj has some extra time...
 
-    'rcarriga/nvim-notify',
-    'tjdevries/telescope-hacks.nvim'
+	"rcarriga/nvim-notify",
+	"tjdevries/telescope-hacks.nvim",
 }
 
 -- use {'tami5/sql.nvim', rocks = {'sqlite', 'luv'}}
@@ -61,7 +61,7 @@ return {
 -- use 'gyim/vim-boxdraw'
 
 -- Better increment/decrement
--- use 'monaqa/dial.nvim' 
+-- use 'monaqa/dial.nvim'
 
 -- use "pearofducks/ansible-vim"
 -- use { "cespare/vim-toml", ft = "toml" }
