@@ -95,3 +95,7 @@ require("nvim-tree").setup({
 
 -- LuaSnip shit
 -- require("luasnip.loaders.from_vscode").lazy_load()
+
+require("elixir").setup()
+
+vim.opt.guifont = { "JetBrains Mono Thin", ":h25" }

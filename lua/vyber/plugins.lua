@@ -65,5 +65,8 @@ return require("packer").startup({
 		-- 		require("config.snippets")
 		-- 	end,
 		-- })
+
+        -- Elixir
+        use({ "mhanberg/elixir.nvim", requires = { "neovim/nvim-lspconfig", "nvim-lua/plenary.nvim" }})
 	end,
 })

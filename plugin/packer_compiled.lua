@@ -80,6 +80,11 @@ _G.packer_plugins = {
     path = "/home/alexs/.local/share/nvim/site/pack/packer/start/barbar.nvim",
     url = "https://github.com/romgrk/barbar.nvim"
   },
+  ["elixir.nvim"] = {
+    loaded = true,
+    path = "/home/alexs/.local/share/nvim/site/pack/packer/start/elixir.nvim",
+    url = "https://github.com/mhanberg/elixir.nvim"
+  },
   fzf = {
     loaded = true,
     path = "/home/alexs/.local/share/nvim/site/pack/packer/start/fzf",
@@ -89,6 +94,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/alexs/.local/share/nvim/site/pack/packer/start/fzf.vim",
     url = "https://github.com/junegunn/fzf.vim"
+  },
+  ["nvim-lspconfig"] = {
+    loaded = true,
+    path = "/home/alexs/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+    url = "https://github.com/neovim/nvim-lspconfig"
   },
   ["nvim-tree.lua"] = {
     loaded = true,
